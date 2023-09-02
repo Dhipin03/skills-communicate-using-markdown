@@ -7,6 +7,11 @@
 var myVar = "Hello, world!";
 ```
 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # Header1
 ## Header2
 ### Header3
